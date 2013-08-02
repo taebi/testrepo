@@ -22,7 +22,7 @@ public class mainclass {
 		// TODO Auto-generated method stub
 		System.out.println("hello world");
 		//change comment to test gitrepo
-		//do something else
+		//do something else else
 	}
 
 }

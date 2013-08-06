@@ -22,6 +22,7 @@ public class mainclass {
 		// TODO Auto-generated method stub
 		System.out.println("hello world");
 		System.out.println("hello universe");
+		System.out.println("hello switzerland");
 		//change comment to test gitrepo
 		//do something else else
 	}
